@@ -1,5 +1,5 @@
 # TechChallenge2
-I decided to use Python for this problem. The py file can be executed and will ask for the number of input files to process.
+I decided to write the solution in Python for this problem. The py file can be executed and will ask for the number of input files to process.
 It will output each processed csv files as "output_**STOCKID**.csv". Attach the set of folders with the csv files and modify
 the **directory_path**(by default is **stock_price_data_files**) variable with the absolute/relative path of the input folder.
 Each file is run through the two functions, the first function (using the **filename** variable as a parameter) picks a random 
